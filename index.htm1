@@ -1,0 +1,117 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prime Point Geomatics</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Montserrat', sans-serif;
+      background-color: #f4f4f4;
+      color: #003366;
+    }
+    header {
+      background-color: #003366;
+      padding: 1rem 2rem;
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    nav a {
+      color: white;
+      margin-left: 1.5rem;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .hero {
+      background-image: url('https://images.unsplash.com/photo-1598477211883-5f23b72aecee');
+      background-size: cover;
+      background-position: center;
+      padding: 6rem 2rem;
+      text-align: center;
+      color: white;
+    }
+    .hero h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+    .hero p {
+      font-size: 1.2rem;
+    }
+    .section {
+      padding: 4rem 2rem;
+      text-align: center;
+    }
+    .section h2 {
+      font-size: 2rem;
+      color: #003366;
+    }
+    .services {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 2rem;
+      margin-top: 2rem;
+    }
+    .service {
+      background: white;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #003366;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    .contact p {
+      margin: 0.5rem 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Prime Point Geomatics</h1>
+    <nav>
+      <a href="#services">Services</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>  <div class="hero">
+    <h1>Defining Boundaries. Delivering Precision.</h1>
+    <p>Professional Surveying & Geospatial Solutions in Nigeria</p>
+  </div>  <section id="services" class="section">
+    <h2>Our Services</h2>
+    <div class="services">
+      <div class="service">
+        <h3>Cadastral Surveying</h3>
+        <p>Accurate land boundary surveys for documentation and registration.</p>
+      </div>
+      <div class="service">
+        <h3>Topographic Mapping</h3>
+        <p>High-detail terrain maps for planning and engineering use.</p>
+      </div>
+      <div class="service">
+        <h3>Drone & Aerial Survey</h3>
+        <p>Modern drone-based data collection and 3D modeling.</p>
+      </div>
+      <div class="service">
+        <h3>GIS & Spatial Analysis</h3>
+        <p>Location intelligence and spatial data processing for projects.</p>
+      </div>
+    </div>
+  </section>  <section id="about" class="section">
+    <h2>About Prime Point</h2>
+    <p>Prime Point Geomatics is a surveying and geospatial firm offering precision services in cadastral, topographic, GIS, drone mapping, and engineering layout. We serve real estate developers, government agencies, engineers, and landowners with technology-driven solutions.</p>
+  </section>  <section id="contact" class="section contact">
+    <h2>Contact Us</h2>
+    <p><strong>Address:</strong> 124 Surveyor Ave, Lagos, Nigeria</p>
+    <p><strong>Phone:</strong> +234.801.234.5678</p>
+    <p><strong>Email:</strong> info@primepointgeo.com.ng</p>
+  </section>  <footer>
+    &copy; 2025 Prime Point Geomatics. All rights reserved.
+  </footer>
+</body>
+  </html>
