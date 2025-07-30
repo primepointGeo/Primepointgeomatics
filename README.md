@@ -89,7 +89,6 @@
         <li>Engineering and Topographic Surveys</li>
         <li>GIS Mapping & Data Management</li>
         <li>Drone Photogrammetry and Remote Sensing</li>
-        <li>Georeferencing & Digitizing Projects</li>
       </ul>
     </div>
   </section>
@@ -98,8 +97,8 @@
     <div class="highlight">
       <h2>Contact Us</h2>
       <p>Email: <a href="mailto:info@primepointgeomatics.com">info@primepointgeomatics.com</a></p>
-      <p>Phone: +234-XXX-XXXXXXX</p>
-      <p>Office: Abeokuta, Nigeria</p>
+      <p>Phone: +2347063644157</p>
+      <p>Office: Abeokuta,Ogun State Nigeria</p>
       <a href="mailto:info@primepointgeomatics.com" class="btn">Send Us an Email</a>
     </div>
   </section>
