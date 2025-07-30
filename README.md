@@ -65,7 +65,7 @@
 
   <header>
     <h1>Prime Point Geomatics</h1>
-    <p>Precision. Professionalism. Progress.</p>
+    <p>Mapping Tomorrow, Today.</p>
   </header>
 
   <nav>
@@ -77,7 +77,7 @@
   <section id="about">
     <div class="highlight">
       <h2>About Us</h2>
-      <p>At Prime Point Geomatics, we deliver professional surveying, geospatial, and mapping services across Nigeria and beyond. Our team of certified surveyors and technologists ensures accuracy, compliance, and client satisfaction.</p>
+      <p>At Prime Point Geomatics, we deliver professional surveying, geospatial and mapping services across Nigeria and beyond. Our team of certified surveyors and technologists ensures accuracy, compliance and client satisfaction.</p>
     </div>
   </section>
 
@@ -96,10 +96,10 @@
   <section id="contact">
     <div class="highlight">
       <h2>Contact Us</h2>
-      <p>Email: <a href="mailto:info@primepointgeomatics.com">info@primepointgeomatics.com</a></p>
+      <p>Email: <a href="mailto:primepointgeomatics@gmail.com">primepointgeomatics@gmail.com</a></p>
       <p>Phone: +2347063644157</p>
       <p>Office: Abeokuta,Ogun State Nigeria</p>
-      <a href="mailto:info@primepointgeomatics.com" class="btn">Send Us an Email</a>
+      <a href="mailto:primepointgeomatics@gmail.com" class="btn">Send Us an Email</a>
     </div>
   </section>
 
